@@ -40,7 +40,7 @@ sudo apt-get install qt4-default
 sudo apt-get install qt5-default libssh2-1-dev libbotan1.10-dev
 ```
 
-And then double-click ```ros-indigo-autoroch_0.0.1-0trusty-20171103-144719-0700_amd64.deb``` for install.
+And then double-click ```ros-indigo-autoroch_*.*.*-0trusty-*_amd64.deb``` for install.
 
 ## Usage
 
@@ -51,4 +51,4 @@ For using you should do following command at first:
 
 Then you can find a start icon for ```AutoRoch``` on your Desktop, double click for startup.
 
-After startup AutoRoch, please read ```/docs/user_manual/AutoRoch用户手册V0.0.1_测试版.pdf``` for using.
+After startup AutoRoch, please read ```/docs/user_manual/AutoRoch用户手册V*.pdf``` for using.
