@@ -17,7 +17,7 @@ System | Version |
 
 ## Installation
 
-For install this app you can checkout ```docs/quick_start/AutoRocht快速指南.pdf```
+For install this app you can checkout ```docs/quick_start/AutoRocht驴矛脣脵脰赂脛脧.pdf```
 
 ### ROS Layer
 
@@ -51,4 +51,4 @@ For using you should do following command at first:
 
 Then you can find a start icon for ```AutoRoch``` on your Desktop, double click for startup.
 
-After startup AutoRoch, please read ```/docs/user_manual/AutoRoch用户手册V*.pdf``` for using.
+After startup AutoRoch, please read ```docs/user_manual/AutoRoch鐢ㄦ埛鎵嬪唽V*.*.*.pdf``` for using.
