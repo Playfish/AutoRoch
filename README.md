@@ -15,6 +15,12 @@ System | Version |
 **Ubuntu** | 14.04.3 |
 **ROS** | Indigo |
 
+Required software:
+
+Software  | Version  |
+--------- | -------- |
+g++ & gcc | 4.9 and above |
+
 ## Installation
 
 For install this app you can checkout ```docs/quick_start/AutoRocht¿ìËÙÖ¸ÄÏ.pdf```
