@@ -15,6 +15,13 @@ AutoRoch是[Roch](http://wiki.ros.org/Robots/Roch)的一个图形化应用程序
 **Ubuntu** | 14.04.3 |
 **ROS** | Indigo |
 
+
+软件需求:
+
+软件  | 版本  |
+--------- | -------- |
+g++ & gcc | 4.9 及以上 |
+
 ## 安装
 
 如需安装这个应用程序，你可以查看 ```docs/quick_start/AutoRocht快速指南.pdf```
