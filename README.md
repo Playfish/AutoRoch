@@ -30,7 +30,9 @@ For install this app you can checkout ```docs/quick_start/AutoRocht快速指南.
 
 If you want to use this software and you should install under dependency libraries:
 ```
-sudo apt-get install ros-indigo-rviz ros-indigo-sensor-msgs ros-indigo-roch-msgs ros-indigo-nav-msgs ros-indigo-rqt-plot ros-indigo-move-base ros-indigo-cv-bridge ros-indigo-image-transport ros-indigo-opencv3 
+sudo apt-get install ros-indigo-rviz ros-indigo-sensor-msgs \
+             ros-indigo-roch-msgs ros-indigo-nav-msgs ros-indigo-rqt-plot \
+             ros-indigo-move-base ros-indigo-cv-bridge ros-indigo-image-transport ros-indigo-opencv3 
 ```
 
 ### Ubuntu Layer
@@ -43,7 +45,6 @@ sudo apt-get install libssh2-1-dev libbotan1.10-dev
 ### Roch Layer
 If you wanne use AutoRoch, you should typing under command on your Roch computer:
 ```
-sudo apt-get install qt4-default
 sudo apt-get install qt5-default libssh2-1-dev libbotan1.10-dev
 ```
 
