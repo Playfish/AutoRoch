@@ -20,6 +20,7 @@ Required software:
 Software  | Version  |
 --------- | -------- |
 g++ & gcc | 4.9 and above |
+OpenCV | 2.4.8 |
 
 ## Installation
 
