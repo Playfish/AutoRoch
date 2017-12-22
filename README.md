@@ -24,7 +24,7 @@ OpenCV | 2.4.8 |
 
 ## Installation
 
-For install this app you can checkout ```docs/quick_start/AutoRocht¿ìËÙÖ¸ÄÏ.pdf```
+For install this app you can checkout ```docs/quick_start/AutoRocht快速指南.pdf```
 
 ### ROS Layer
 
