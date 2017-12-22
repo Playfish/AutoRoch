@@ -45,7 +45,6 @@ sudo apt-get install libssh2-1-dev libbotan1.10-dev
 ### Roch层
 如果想要使用AutoRoch, 你需要在你的Roch电脑上运行如下命令:
 ```
-sudo apt-get install qt4-default
 sudo apt-get install qt5-default libssh2-1-dev libbotan1.10-dev
 ```
 
