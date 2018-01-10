@@ -6,6 +6,12 @@ This program collects a series of function modules of Roch, such as driver, foll
 
 For more information please visit: [autoroch](http://wiki.ros.org/autoroch)
 
+## Table of Contents
+* [Preparation](#preparation)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Troubleshooting](#troubleshooting)
+
 ## Preparation
 
 Required Systems described as follows:
@@ -60,3 +66,6 @@ For using you should do following command at first:
 Then you can find a start icon for ```AutoRoch``` on your Desktop, double click for startup.
 
 After startup AutoRoch, please read ```docs/user_manual/AutoRoch用户手册V*.*.*.pdf``` for using.
+
+## Troubleshooting
+Please see [Troubleshooting](https://github.com/SawYer-Robotics/AutoRoch/issues/6)
